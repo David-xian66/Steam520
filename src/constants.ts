@@ -48,6 +48,7 @@ export const DomainList: IDomainList = {
         "prod-ireland.arkoselabs.com",
         "crashlyticsreports-pa.googleapis.com",
         "p222-caldav.icloud.com.cn",
+        "app-measurement.com",
     ]
 }
 
