@@ -46,7 +46,7 @@ jobs:
       id: commit
       run: |
         git config --global user.email "xianyongjian080402@126.com"
-        git config --global user.name "David_bot"
+        git config --global user.name xianyongjian08040202
         git add .
         git commit -m "update: Update hosts file at ${{ steps.current-time.output.formattedTime }}"
       continue-on-error: true
