@@ -57,10 +57,9 @@
 108.156.107.8       cdn.arkoselabs.com
 108.156.107.8       prod-ireland.arkoselabs.com
 173.194.209.99      crashlyticsreports-pa.googleapis.com
-                    p222-caldav.icloud.com.cn
 172.253.122.100     app-measurement.com
 
-# Update time: 2023/8/29 18:58:02
+# Update time: 2023/8/29 19:18:23
 # Repo URL: https://github.com/pboymt/Steam520
 # Hosts END
 
