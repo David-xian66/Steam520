@@ -46,6 +46,7 @@ export const DomainList: IDomainList = {
         "epic-games-api.arkoselabs.com",
         "cdn.arkoselabs.com",
         "prod-ireland.arkoselabs.com",
+        "crashlyticsreports-pa.googleapis.com",
     ]
 }
 
