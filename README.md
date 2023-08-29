@@ -57,7 +57,7 @@
 108.156.107.8       cdn.arkoselabs.com
 108.156.107.8       prod-ireland.arkoselabs.com
 
-# Update time: 2023/8/29 17:49:08
+# Update time: 2023/8/29 18:08:16
 # Repo URL: https://github.com/pboymt/Steam520
 # Hosts END
 
