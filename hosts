@@ -9,7 +9,26 @@
                     store.akamai.steamstatic.com
                     cdn.cloudflare.steamstatic.com
 104.104.82.66       steam-chat.com
+                    avatars.akamai.steamstatic.com
+                    community.steamstatic.com
+104.127.80.173      media.steampowered.com
+104.127.80.173      help.steampowered.com
+104.127.80.173      login.steampowered.com
+104.127.80.173      checkout.steampowered.com
+173.194.209.100     google.com
+173.194.209.100     www.google.com
+104.16.168.131      hcaptcha.com
+104.16.168.131      assets.hcaptcha.com
+104.16.168.131      imgs.hcaptcha.com
+104.16.168.131      www.hcaptcha.com
+104.16.168.131      docs.hcaptcha.com
+104.16.168.131      js.hcaptcha.com
+104.16.168.131      newassets.hcaptcha.com
+108.156.107.8       client-api.arkoselabs.com
+108.156.107.8       epic-games-api.arkoselabs.com
+108.156.107.8       cdn.arkoselabs.com
+108.156.107.8       prod-ireland.arkoselabs.com
 
-# Update time: 2023/8/29 16:10:03
+# Update time: 2023/8/29 17:49:08
 # Repo URL: https://github.com/pboymt/Steam520
 # Hosts END
