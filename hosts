@@ -15,22 +15,20 @@
 104.127.80.173      help.steampowered.com
 104.127.80.173      login.steampowered.com
 104.127.80.173      checkout.steampowered.com
-173.194.209.100     google.com
-173.194.209.100     www.google.com
+142.251.16.100      google.com
+142.251.16.100      www.google.com
 104.16.168.131      hcaptcha.com
 104.16.168.131      assets.hcaptcha.com
-104.16.168.131      imgs.hcaptcha.com
 104.16.168.131      www.hcaptcha.com
 104.16.168.131      docs.hcaptcha.com
 104.16.168.131      js.hcaptcha.com
 104.16.168.131      newassets.hcaptcha.com
 108.156.107.8       client-api.arkoselabs.com
 108.156.107.8       epic-games-api.arkoselabs.com
-108.156.107.8       cdn.arkoselabs.com
 108.156.107.8       prod-ireland.arkoselabs.com
 173.194.209.99      crashlyticsreports-pa.googleapis.com
 172.253.122.100     app-measurement.com
 
-# Update time: 2023/8/29 22:07:33
+# Update time: 2023/8/30 00:09:12
 # Repo URL: https://github.com/pboymt/Steam520
 # Hosts END
