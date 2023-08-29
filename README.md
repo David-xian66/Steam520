@@ -59,7 +59,7 @@
 173.194.209.99      crashlyticsreports-pa.googleapis.com
 172.253.122.100     app-measurement.com
 
-# Update time: 2023/8/29 20:13:07
+# Update time: 2023/8/29 22:07:33
 # Repo URL: https://github.com/pboymt/Steam520
 # Hosts END
 
