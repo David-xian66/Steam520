@@ -56,8 +56,9 @@
 108.156.107.8       epic-games-api.arkoselabs.com
 108.156.107.8       cdn.arkoselabs.com
 108.156.107.8       prod-ireland.arkoselabs.com
+173.194.209.99      crashlyticsreports-pa.googleapis.com
 
-# Update time: 2023/8/29 18:08:16
+# Update time: 2023/8/29 18:51:50
 # Repo URL: https://github.com/pboymt/Steam520
 # Hosts END
 
