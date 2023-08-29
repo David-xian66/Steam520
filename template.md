@@ -14,29 +14,16 @@
 
 > `hosts`地址可能会调整，所以请务必关注GitHub、Gitlab主页，保证不迷路，也可以关注公众号：湖中剑。
 
+另有`GitHub`加速的兄弟项目 [https://gh.idayer.com](https://gh.idayer.com)，支持对`GitHub`文件进行单独加速。
+
 ## 使用方式
 
 ### 1. 远程hosts
 
-现在新增了`DNS`获取方案，欢迎使用并反馈。
-
-请查看 [next hosts](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
-
-内容定时更新，最近更新时间：2023-03-08 20:22:25。
+内容定时更新，最近更新时间：{update_time}。
 
 ```bash
-# New！欢迎使用基于DNS的新方案
-# https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts
-# 地址可能会变动，请务必关注GitHub、Gitlab获取最新消息
-# 也可以关注公众号：湖中剑，保证不迷路
-# GitHub Host Start
-
-# Please Star : https://github.com/ineo6/hosts
-# Mirror Repo : https://gitlab.com/ineo6/hosts
-
-# Update at: 2023-03-08 20:22:25
-
-# GitHub Host End
+{hostContent}
 ```
 
 ### 2. 本地 hosts 服务
