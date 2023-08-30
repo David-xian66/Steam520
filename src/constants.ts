@@ -91,5 +91,5 @@ export const githubUrls = [
   'prod-ireland.arkoselabs.com',
   'crashlyticsreports-pa.googleapis.com',
   // 'p222-caldav.icloud.com.cn', 开了也超时……
-  'app-measurement.com'
+  // 'app-measurement.com' 开了之后又的机器会有问题
 ];
