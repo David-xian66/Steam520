@@ -31,18 +31,19 @@ jobs:
       - name: Update hosts
         run: npm run make
 
-    - name: Commit changes
-      id: commit
-      run: |
-        git config --global user.email "xianyongjian080402@126.com"
-        git config --global user.name xianyongjian08040202
-        git add .
-        git commit -m "Update hosts"
-      continue-on-error: true
-    - name: Check on failures
-      if: steps.commit.outputs.status == 'failure'
-      run: exit 1
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.BOTTOKEN }}
+      - name: Commit changes
+        id: commit
+        run: |
+          git config --global user.email "xianyongjian080402@126.com"
+          git config --global user.name xianyongjian08040202
+          git add .
+          git commit -m "Update hosts"
+        continue-on-error: true
+      - name: Check on failures
+        if: steps.commit.outputs.status == 'failure'
+        run: exit 1
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.BOTTOKEN }}
+  
