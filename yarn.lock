@@ -207,9 +207,9 @@
   integrity sha512-vxhUy4J8lyeyinH7Azl1pdd43GJhZH/tP2weN8TntQblOY+A0XbT8DJk1/oCPuOOyg/Ja757rG0CgHcWC8OfMA==
 
 "@types/debug@^4.1.7":
-  version "4.1.10"
-  resolved "https://registry.npmjs.org/@types/debug/-/debug-4.1.10.tgz"
-  integrity sha512-tOSCru6s732pofZ+sMv9o4o3Zc+Sa8l3bxd/tweTQudFn06vAzb13ZX46Zi6m6EJ+RUbRTHvgQJ1gBtSgkaUYA==
+  version "4.1.11"
+  resolved "https://registry.npmjs.org/@types/debug/-/debug-4.1.11.tgz"
+  integrity sha512-R2qflTjHDs4CL6D/6TkqBeIHr54WzZfIxN729xvCNlYIVp2LknlnCro5Yo3frNaX2E5gO9pZ3/QAPVdGmu+q9w==
   dependencies:
     "@types/ms" "*"
 
