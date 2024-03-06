@@ -33,7 +33,7 @@
     "@babel/eslint-parser": "^7.17.0",
     "@types/debug": "^4.1.7",
     "@types/lodash.unionby": "^4.8.6",
-    "@types/node": "^20.11.24",
+    "@types/node": "^20.11.25",
     "@types/node-fetch": "^2.6.1",
     "@types/yargs-parser": "^21.0.0",
     "@typescript-eslint/eslint-plugin": "^5.19.0",
