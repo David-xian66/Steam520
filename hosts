@@ -2,73 +2,73 @@
 # 也可以关注公众号：湖中剑，保证不迷路
 # GitHub Host Start
 
-185.199.111.154              github.githubassets.com
-140.82.113.22                central.github.com
+185.199.109.154              github.githubassets.com
+140.82.114.21                central.github.com
 185.199.111.133              desktop.githubusercontent.com
 185.199.110.153              assets-cdn.github.com
-185.199.108.133              camo.githubusercontent.com
+185.199.111.133              camo.githubusercontent.com
 185.199.108.133              github.map.fastly.net
-151.101.193.194              github.global.ssl.fastly.net
-140.82.112.4                 gist.github.com
+151.101.1.194                github.global.ssl.fastly.net
+140.82.114.4                 gist.github.com
 185.199.109.153              github.io
 140.82.114.4                 github.com
 140.82.113.5                 api.github.com
 185.199.108.133              raw.githubusercontent.com
-185.199.108.133              user-images.githubusercontent.com
-185.199.108.133              favicons.githubusercontent.com
-185.199.110.133              avatars5.githubusercontent.com
-185.199.109.133              avatars4.githubusercontent.com
+185.199.109.133              user-images.githubusercontent.com
+185.199.110.133              favicons.githubusercontent.com
+185.199.109.133              avatars5.githubusercontent.com
+185.199.110.133              avatars4.githubusercontent.com
 185.199.111.133              avatars3.githubusercontent.com
-185.199.108.133              avatars2.githubusercontent.com
-185.199.108.133              avatars1.githubusercontent.com
-185.199.111.133              avatars0.githubusercontent.com
-185.199.109.133              avatars.githubusercontent.com
-140.82.113.9                 codeload.github.com
-54.231.164.169               github-cloud.s3.amazonaws.com
-52.216.164.219               github-com.s3.amazonaws.com
-52.216.177.243               github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.32.201                github-production-user-asset-6210df.s3.amazonaws.com
-52.216.54.177                github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.109.153              githubstatus.com
-140.82.112.18                github.community
-185.199.108.133              media.githubusercontent.com
-185.199.110.133              objects.githubusercontent.com
+185.199.111.133              avatars2.githubusercontent.com
+185.199.111.133              avatars1.githubusercontent.com
+185.199.109.133              avatars0.githubusercontent.com
+185.199.110.133              avatars.githubusercontent.com
+140.82.114.9                 codeload.github.com
+52.217.164.1                 github-cloud.s3.amazonaws.com
+52.216.106.3                 github-com.s3.amazonaws.com
+16.182.72.25                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.27.28                 github-production-user-asset-6210df.s3.amazonaws.com
+16.182.35.233                github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.110.153              githubstatus.com
+140.82.112.17                github.community
+185.199.111.133              media.githubusercontent.com
+185.199.111.133              objects.githubusercontent.com
 185.199.111.133              raw.github.com
 4.249.131.160                copilot-proxy.githubusercontent.com
 23.47.27.74                  steamcommunity.com
 104.94.121.98                www.steamcommunity.com
 23.45.149.185                store.steampowered.com
 23.47.27.74                  api.steampowered.com
-23.45.181.177                steamcdn-a.akamaihd.net
-23.215.0.133                 cdn.akamai.steamstatic.com
-23.215.0.144                 community.akamai.steamstatic.com
-23.215.0.135                 store.akamai.steamstatic.com
-104.18.42.105                cdn.cloudflare.steamstatic.com
+23.218.218.188               steamcdn-a.akamaihd.net
+23.53.35.69                  cdn.akamai.steamstatic.com
+23.215.0.230                 community.akamai.steamstatic.com
+23.215.0.238                 store.akamai.steamstatic.com
+172.64.145.151               cdn.cloudflare.steamstatic.com
 104.94.121.98                steam-chat.com
-104.97.85.188                avatars.akamai.steamstatic.com
-23.207.202.195               community.steamstatic.com
-23.62.230.48                 media.steampowered.com
+23.215.0.10                  avatars.akamai.steamstatic.com
+23.221.227.11                community.steamstatic.com
+23.215.0.133                 media.steampowered.com
 23.47.27.74                  help.steampowered.com
 23.47.27.74                  login.steampowered.com
 23.45.149.185                checkout.steampowered.com
-172.253.115.101              google.com
+142.251.163.102              google.com
 172.253.62.99                www.google.com
 104.18.124.91                hcaptcha.com
 104.18.125.91                assets.hcaptcha.com
-104.18.124.91                imgs.hcaptcha.com
-104.18.125.91                www.hcaptcha.com
-104.18.124.91                docs.hcaptcha.com
-104.18.125.91                js.hcaptcha.com
-104.18.124.91                newassets.hcaptcha.com
+104.18.125.91                imgs.hcaptcha.com
+104.18.124.91                www.hcaptcha.com
+104.18.125.91                docs.hcaptcha.com
+104.18.124.91                js.hcaptcha.com
+104.18.125.91                newassets.hcaptcha.com
 172.64.154.86                client-api.arkoselabs.com
 172.64.154.86                epic-games-api.arkoselabs.com
-104.18.33.170                cdn.arkoselabs.com
+172.64.154.86                cdn.arkoselabs.com
 52.215.42.154                prod-ireland.arkoselabs.com
-142.250.31.94                crashlyticsreports-pa.googleapis.com
+142.251.167.94               crashlyticsreports-pa.googleapis.com
 
 # Please Star : https://github.com/ineo6/hosts
 # Mirror Repo : https://gitlab.com/ineo6/hosts
 
-# Update at: 2024-03-26 08:47:22
+# Update at: 2024-03-26 09:42:59
 
 # GitHub Host End
